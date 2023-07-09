@@ -3,3 +3,5 @@ Hola mundo
 Soy Norman
 
 Actualmente es Ingeniero Quimico
+
+Esta interesado en la ciencia de datos
